@@ -308,6 +308,7 @@ function Home() {
                         >
                             <option value="">Select Age Group</option>
                             <option value="Below 15">Below 15</option>
+                            <option value="15-18">15-18</option>
                             <option value="18-25">18-25</option>
                             <option value="26-35">26-35</option>
                             <option value="36-45">36-45</option>
